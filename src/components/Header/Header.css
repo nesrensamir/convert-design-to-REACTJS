@@ -1,0 +1,171 @@
+@font-face {
+    font-family: cairo;
+    src: url('../fonts/Cairo-Regular.ttf');
+  }
+
+
+.Fcontainer{
+    background-color: 
+    #5260AB;
+    height:650px;  
+    padding: 1%;
+    padding-left: 5%;
+    padding-right: 5%; 
+    color:white; 
+    font-family: cairo; 
+
+    
+}  
+
+.agenda{
+    display: inline-block;
+    color : #51BFAD; 
+    margin-left: 20px; 
+    margin-right: 5px; 
+
+    
+}
+.calIcon{
+    color:#51BFAD;
+    display:inline-block; 
+    margin-left: 100px;
+    
+}
+
+.personIcon{
+    color:white ;
+    width:36px;
+    height:36px; 
+    display:inline-block;
+    margin-left: 5px;
+
+}
+
+.searchBar{
+    display: inline-block; 
+    
+} 
+
+
+.search{
+    border:none;
+    background-color: none; 
+    border-style: outset;
+} 
+
+.searchInput{
+    background: none;
+    color:white ;
+    border:none; 
+    border-bottom: 2px solid white; 
+    margin-right: 0px;
+} 
+.menuLinks {
+    margin-left: 15px; 
+    text-decoration: none;
+    font-weight: bold;
+} 
+
+
+.menuLinks:visited {
+    color:#5260AB;
+  }
+
+  .menuLinks:active {
+    color:#51BFAD;
+  } 
+  .menuLinks:hover {
+    color: #51BFAD;
+  }
+ .navLinks{
+    margin: 10px;
+    margin-bottom: 50px;
+ } 
+
+
+ .bread{
+    color: #51BFAD;
+    display: inline;
+ } 
+
+
+ .heart{ 
+ 
+    width:20px;
+    height:20px;  
+ } 
+ .divHeart{
+    border:2px solid white;
+    border-radius: 50%;
+    height:40px;
+    width: 40px;  
+   padding:8px; 
+   color:#5260AB ;
+   background-color: white; 
+   display: inline-block;
+   margin-left: 50px;
+  
+
+ } 
+
+ .hrLine{
+    margin-top: 20px;
+    color:#000000;
+ } 
+ .calIcon2{
+    color:#51BFAD;
+    display:inline-block; 
+    margin-left: 30px;
+ } 
+ .headContent{
+    margin-top: 10px;
+ } 
+ .resBtn{
+ background-color: #51BFAD; 
+ color : white; 
+ border: none;
+ width:100px; 
+ height: 40px; 
+ font-weight: bold; 
+ margin-top: 20px;
+ border-radius: 10%;
+ }  
+
+ .instro{
+    border: 2px solid white;
+    width:80% ;
+    margin-top: 50px;
+    height: 300px;
+    background-color: white;
+    color:black; 
+    position:absolute ;
+    padding: 20px; 
+    border-radius: 3%; 
+    margin-right: 50px;
+ } 
+ .test{
+    position: relative;
+ } 
+ .profile{
+    border:none;
+    border-radius: 50%;
+    
+ } 
+ .profileSec{
+    margin-top: 20px;
+ } 
+ .profileName{
+    display: inline;
+    margin-right:10px ; 
+    color:#303A6C;
+    font-weight: bold;
+ } 
+ .profileHeader{
+    color:#303A6C;
+ } 
+ .profileInfo{
+    color: rgb(187, 186, 186);
+    font-size: 15px;
+ } 
+
+ 

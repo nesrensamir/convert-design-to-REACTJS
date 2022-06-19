@@ -1,0 +1,78 @@
+@font-face {
+    font-family: cairo;
+    src: url('../fonts/Cairo-Regular.ttf');
+  }
+
+  .MainContainer{ 
+    margin-top: 300px; 
+    margin-bottom: 50px;
+    font-family: cairo; 
+  }
+
+  .title{
+    
+    color: #303A6C;
+    text-shadow: 2px 2px 4px #272727; 
+    font-weight: bold; 
+    margin-bottom: 30px;
+    
+  } 
+
+  .numberTitle{
+   
+    color:#51BFAD; 
+    margin-bottom: 20px;
+  } 
+
+  .mainContent{
+    color: #303A6C; 
+    margin-bottom: 10px;
+    margin-top: 60px;
+
+  } 
+
+
+  .sideTable{
+  background-color: #5260AB;
+  
+   color:white; 
+  
+  } 
+  .titleSideTable{
+    background-color: #51BFAD; 
+    padding: 8%;
+    border-bottom: 1px  #51BFAD;
+   border-radius : 0 0 10% 10%;  
+  /*  text-align: center;*/
+
+  
+  } 
+
+  .mainTable{
+    
+    padding: 8%;
+  
+  }  
+
+
+  .headTable{
+    font-weight: bold;
+  }
+  
+  .socialIcon{
+    width:20px;
+    height: 20px;
+    margin-left: 20px;
+    color:white
+  }
+  .checkIcon{
+    width:30px ;
+    height:30px;
+    margin-left: 10px; 
+    color :#F69C5D;
+  } 
+
+  .checkedText{
+    font-size: x-large;
+    font-weight: bold;
+  }

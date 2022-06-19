@@ -1,0 +1,41 @@
+
+@font-face {
+    font-family: cairo;
+    src: url('../fonts/Cairo-Regular.ttf');
+  }
+
+
+.footerContainer{
+  font-family: cairo; 
+  color:#303A6C; 
+  margin-top: 100px; 
+  margin-bottom: 100px; 
+  padding:20px;
+} 
+
+.footerLinks{
+    margin-top: 10px;
+} 
+.socialIcons 
+{
+    width:15px;
+    height: 15px;
+    margin-left: 20px;
+    color:#aeb3d3 ;
+    margin-top: 20px; 
+    margin-bottom: 60px;
+} 
+
+#button-addon2{
+    background-color:#5260AB; 
+    color:white ;
+    width:100px;
+} 
+.inputGroup{
+    margin-top: 30px; 
+    margin-bottom:20px ;
+} 
+.secLinks{
+    margin-bottom: 20px;
+} 
+
